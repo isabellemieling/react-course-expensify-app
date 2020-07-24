@@ -19,9 +19,9 @@ const store = configureStore();
 
 // Add expenses --> water bill, gas bill
 // First import the functions to add expenses 
-store.dispatch(addExpense({ description: "Water bill", amount: 120, createdAt: 1000 }));
-store.dispatch(addExpense({ description: "Phone Bill", amount: 300, createdAt: 100 }));
-store.dispatch(addExpense({ description: "Rent", amount: 19500, createdAt: 1300 }));
+// store.dispatch(addExpense({ description: "Water bill", amount: 120, createdAt: 1000 }));
+// store.dispatch(addExpense({ description: "Phone Bill", amount: 300, createdAt: 100 }));
+// store.dispatch(addExpense({ description: "Rent", amount: 19500, createdAt: 1300 }));
 
 // Add text filter --> bill (2 items) --> water (1 item)
 // store.dispatch(setTextFilter('bill'));
