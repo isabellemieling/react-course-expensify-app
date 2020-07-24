@@ -35,11 +35,9 @@ ShallowWrapper {
 </Link>,
         <p>
           Cost: 
-          195
-</p>,
-        <p>
+          $1.95
           Date added: 
-          0
+          December 31st, 1969
 </p>,
       ],
     },
@@ -84,30 +82,17 @@ ShallowWrapper {
         "props": Object {
           "children": Array [
             "Cost: ",
-            195,
+            "$1.95",
+            "Date added: ",
+            "December 31st, 1969",
           ],
         },
         "ref": null,
         "rendered": Array [
           "Cost: ",
-          195,
-        ],
-        "type": "p",
-      },
-      Object {
-        "instance": null,
-        "key": undefined,
-        "nodeType": "host",
-        "props": Object {
-          "children": Array [
-            "Date added: ",
-            0,
-          ],
-        },
-        "ref": null,
-        "rendered": Array [
+          "$1.95",
           "Date added: ",
-          0,
+          "December 31st, 1969",
         ],
         "type": "p",
       },
@@ -132,11 +117,9 @@ ShallowWrapper {
 </Link>,
           <p>
             Cost: 
-            195
-</p>,
-          <p>
+            $1.95
             Date added: 
-            0
+            December 31st, 1969
 </p>,
         ],
       },
@@ -181,30 +164,17 @@ ShallowWrapper {
           "props": Object {
             "children": Array [
               "Cost: ",
-              195,
+              "$1.95",
+              "Date added: ",
+              "December 31st, 1969",
             ],
           },
           "ref": null,
           "rendered": Array [
             "Cost: ",
-            195,
-          ],
-          "type": "p",
-        },
-        Object {
-          "instance": null,
-          "key": undefined,
-          "nodeType": "host",
-          "props": Object {
-            "children": Array [
-              "Date added: ",
-              0,
-            ],
-          },
-          "ref": null,
-          "rendered": Array [
+            "$1.95",
             "Date added: ",
-            0,
+            "December 31st, 1969",
           ],
           "type": "p",
         },
